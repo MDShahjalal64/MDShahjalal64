@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Shahjalal</h1>
 <h3 align="center">MERN Stack web developer from bangladesh</h3>
-<img align="right" alt="coding" width="400" src=" https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
+<img align="right" alt="coding" width="400" src=https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahjalal64&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahjalal64" /> </p>
 
